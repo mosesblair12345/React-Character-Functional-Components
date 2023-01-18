@@ -1,0 +1,12 @@
+.card{
+    background-color: #9EA1D4;
+    border: 1px solid grey;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+.card:hover {
+    transform: scale(1.05);
+  }
