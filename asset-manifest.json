@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Character-Functional-Components/static/css/main.bf2d15e8.css",
+    "main.js": "/React-Character-Functional-Components/static/js/main.c7e2cac4.js",
+    "index.html": "/React-Character-Functional-Components/index.html",
+    "main.bf2d15e8.css.map": "/React-Character-Functional-Components/static/css/main.bf2d15e8.css.map",
+    "main.c7e2cac4.js.map": "/React-Character-Functional-Components/static/js/main.c7e2cac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2d15e8.css",
+    "static/js/main.c7e2cac4.js"
+  ]
+}
